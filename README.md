@@ -44,7 +44,7 @@ y
 ## Initial VGG-M model
 The initial model is converted from [caffe VGG-M model](https://gist.github.com/ksimonyan/f194575702fae63b2829) into .npy file using [caffe-tensorflow](https://github.com/ethereon/caffe-tensorflow) library provided by [ethereon](https://github.com/ethereon).
 
-To download the converted initial model. Run download.sh directly.
+To download the initial model. Run download.sh directly.
 ```bash
   bash download.sh
 ```
