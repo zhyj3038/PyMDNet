@@ -5,6 +5,7 @@ by [HungWei-Andy](https://github.com/HungWei-Andy) @ [NTU DISPLab](http://disp.e
 * [Requirements](#requirements)
 * [Data Directory](#data-directory)
 * [Initial VGG-M Model](#initial-vgg-m-model)
+* [Pretrained Model](#pretrained-model)
 * [Usage](#usage)
 
 ## Introduction
@@ -49,9 +50,15 @@ Please download and put the video files of [OTB](http://cvlab.hanyang.ac.kr/trac
 ## Initial VGG-M Model
 The initial model is converted from [caffe VGG-M model](https://gist.github.com/ksimonyan/f194575702fae63b2829) into .npy file using [caffe-tensorflow](https://github.com/ethereon/caffe-tensorflow) library provided by [ethereon](https://github.com/ethereon).
 
-To download the initial model. Run download.sh directly.
+To download the initial model, run download.sh directly.
 ```bash
   bash download.sh
+```
+
+## Pretrained Models
+We have pretrained the mdoel on vot dataset, otb dataset, and both. To download the pretrained model, run download_trained.sh directly.
+```bash
+  bash download_trained.sh (This file will be uploaded later)
 ```
 
 ## Usage
