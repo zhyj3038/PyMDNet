@@ -1,14 +1,14 @@
 # PyMDNet
 by [HungWei-Andy](https://github.com/HungWei-Andy) @ [NTU DISPLab](http://disp.ee.ntu.edu.tw/)
 
-## Introduction
-Python (tensorflow) implementation of **[Hyeonseob Nam](https://kr.linkedin.com/in/hyeonseob-nam/) and [Bohyung Han](http://cvlab.postech.ac.kr/%7Ebhhan/), [Learning Multi-Domain Convolutional Neural Networks.](https://arxiv.org/abs/1510.07945), CVPR2016**. 
-
-## Content
+* [Introduction](#introduction)
 * [Requirements](#requirements)
 * [Data Directory](#data-directory)
 * [Initial VGG-M Model](#initial-vgg-m-model)
 * [Usage](#usage)
+
+## Introduction
+Python (tensorflow) implementation of **[Hyeonseob Nam](https://kr.linkedin.com/in/hyeonseob-nam/) and [Bohyung Han](http://cvlab.postech.ac.kr/%7Ebhhan/), [Learning Multi-Domain Convolutional Neural Networks.](https://arxiv.org/abs/1510.07945), CVPR2016**. 
 
 ## Requirements
 ```bash
