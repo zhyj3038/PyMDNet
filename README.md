@@ -22,7 +22,6 @@ Pillow>=2.2.1
 
 ## Data Directory
 Please download and put the video files of [OTB](http://cvlab.hanyang.ac.kr/tracker_benchmark/benchmark_v10.html) and [VOT](http://www.votchallenge.net/) in the directory 'data' with structure as follows:
-y
 
     .
     ├── data
