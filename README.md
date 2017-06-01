@@ -9,7 +9,7 @@ by [HungWei-Andy](https://github.com/HungWei-Andy) @ [NTU DISPLab](http://disp.e
 * [Usage](#usage)
 
 ## Introduction
-Python (tensorflow) implementation of **[Hyeonseob Nam](https://kr.linkedin.com/in/hyeonseob-nam/) and [Bohyung Han](http://cvlab.postech.ac.kr/%7Ebhhan/), [Learning Multi-Domain Convolutional Neural Networks.](https://arxiv.org/abs/1510.07945), CVPR2016**. 
+Python (tensorflow) implementation of **[Hyeonseob Nam](https://kr.linkedin.com/in/hyeonseob-nam/) and [Bohyung Han](http://cvlab.postech.ac.kr/%7Ebhhan/), [Learning Multi-Domain Convolutional Neural Networks](https://arxiv.org/abs/1510.07945), CVPR2016**. 
 
 ## Requirements
 ```bash
@@ -58,7 +58,7 @@ To download the initial model, run download.sh directly.
 ## Pretrained Models
 We have pretrained the mdoel on vot dataset, otb dataset, and both. To download the pretrained model, run download_trained.sh directly.
 ```bash
-  bash download_trained.sh (This file will be uploaded later)
+  bash download_trained.sh
 ```
 
 ## Usage
