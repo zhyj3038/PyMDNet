@@ -4,6 +4,12 @@ by [HungWei-Andy](https://github.com/HungWei-Andy) @ [NTU DISPLab](http://disp.e
 ## Introduction
 Python (tensorflow) implementation of **[Hyeonseob Nam](https://kr.linkedin.com/in/hyeonseob-nam/) and [Bohyung Han](http://cvlab.postech.ac.kr/%7Ebhhan/), [Learning Multi-Domain Convolutional Neural Networks.](https://arxiv.org/abs/1510.07945), CVPR2016**. 
 
+## Content
+* [Requirements](#requirements)
+* [Data Directory](#data-directory)
+* [Initial VGG-M Model](#initial-vgg-m-model)
+* [Usage](#usage)
+
 ## Requirements
 ```bash
 Python 2.7
@@ -41,7 +47,7 @@ y
     └── README.md
 
 
-## Initial VGG-M model
+## Initial VGG-M Model
 The initial model is converted from [caffe VGG-M model](https://gist.github.com/ksimonyan/f194575702fae63b2829) into .npy file using [caffe-tensorflow](https://github.com/ethereon/caffe-tensorflow) library provided by [ethereon](https://github.com/ethereon).
 
 To download the initial model. Run download.sh directly.
